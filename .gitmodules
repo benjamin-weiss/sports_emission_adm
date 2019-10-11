@@ -1,0 +1,3 @@
+[submodule "submodules/libadm"]
+	path = submodules/libadm
+	url = git@github.com:benjamin-weiss/libadm.git
